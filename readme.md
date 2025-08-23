@@ -7,7 +7,7 @@
 #### 1. 교재
 
 ### 교재 및 playgrounds :
-- [Deep Learning with python](https://sourestdeeds.github.io/pdf/Deep%20Learning%20with%20Python.pdf) --> Refer only to chapter 2, 3, 4, 5, 13
+- [Deep Learning with python](https://sourestdeeds.github.io/pdf/Deep%20Learning%20with%20Python.pdf) --> Refer only to chapter02, 3, 4, 5, 13
 - [Time Series Forecasting in Python](https://www.oreilly.com/library/view/time-series-forecasting/9781617299889/) --> Refer only to PART 1 - CH01, CH02, CH03, PART 3 - CH13&14
 - [Data Windowing and Making Datasets](https://carpentries-incubator.github.io/python-classifying-power-consumption/instructor/03-data-windows.html)
 
