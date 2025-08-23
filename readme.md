@@ -1,5 +1,6 @@
 #### 학습 목표
-- 딥러닝 기초 이해하고 응용하기(FNN, RNN, CNN, LTSM, Ttansformer)
+- 딥러닝 기초 이해하고 응용하기
+-     FNN, RNN, CNN, LTSM, Transformer)
 - 딥러닝과 시계열분석(Time Series Forecasting in Python, Marco Peixeiro)
 
 #### 학습하고 놀기 좋은 곳 :
