@@ -1,5 +1,5 @@
 ### 학습 내용
-#### 1 딥러닝 이해
+#### 1. 딥러닝 이해
 - Tensor Operation,  Data Windowing
 - 딥러닝과 시계열분석
 - 기술 Tools : Python, Tensorflow, Keras
