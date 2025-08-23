@@ -1,4 +1,4 @@
-### 가. 학습 목표
+### 학습 내용
 #### 1 딥러닝 이해
 - Tensor Operation,  Data Windowing
 - 딥러닝과 시계열분석
@@ -6,7 +6,8 @@
 #### 2. Finance Investment 전략과 Simulation
 - 볼린저밴드 (Bollinger Bands)를 기반으로 Long & Short 전략만들기
 #### 3. AI Tutor 만들기
-- google gemini API, RAG
+- RAG(Retrieval-Augmented Generation)기반의 google gemini API를 활용하여 AI Tutor 개발
+- [Gemini API: Getting started with Gemini models](https://colab.research.google.com/github/google-gemini/cookbook/blob/main/quickstarts/Get_started.ipynb)
 
 ##### 교재 및 playgrounds :
 - [Deep Learning with python](https://sourestdeeds.github.io/pdf/Deep%20Learning%20with%20Python.pdf) --> Refer only to chapter02, 3, 4, 5, 13
