@@ -1,7 +1,6 @@
 ### 학습 내용
-#### 1. 딥러닝 이해
-- Tensor Operation,  Data Windowing
-- 딥러닝과 시계열분석
+#### 1. 딥러닝과 시계열분석
+- Tensor Operation, Data Windowing
 - 기술 Tools : Python, Tensorflow, Keras
 #### 2. Finance Investment 전략과 Simulation
 - 볼린저밴드 (Bollinger Bands)를 기반으로 Long & Short 전략만들기
