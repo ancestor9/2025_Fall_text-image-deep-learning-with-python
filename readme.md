@@ -17,4 +17,4 @@
 - [Tensorflow Timeseries](https://www.tensorflow.org/tutorials/structured_data/time_series?hl=ko) --> tensorflow timeseries tutorial
 - [Mathematics for Deep Learning](https://github.com/kafa46/deeplearning_math/tree/master?tab=readme-ov-file) --> 확률, 통계, 선형대수 유튜브
 - [convnet_Visualization](https://poloclub.github.io/cnn-explainer/)
-
+- [Machine Learning Systems Principles and Practices of Engineering Artificially Intelligent Systems](https://www.mlsysbook.ai/)
