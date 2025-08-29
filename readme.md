@@ -1,6 +1,6 @@
 ### 학습 내용
 
-#### 1. 비지도학습 (6시간)
+#### 1. 비지도학습 (12시간)
 - Dimensionality Reduction
 - Anomaly Detection (PCA, Autoencoder)
 - 기술 Tools : Python, Tensorflow, Keras
@@ -9,7 +9,7 @@
 - VAE(Variational Autoencoder)
 - GAN(Generative Adversarial Network)
   
-#### 3. 딥러닝과 시계열분석 (12시간)
+#### 3. 딥러닝과 시계열분석 (6시간)
 - Tensor Operation, Data Windowing
 - 기술 Tools : Python, Tensorflow, Keras
 
