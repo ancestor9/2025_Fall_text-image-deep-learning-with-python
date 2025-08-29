@@ -1,22 +1,22 @@
 ### 학습 내용
 
-#### 1. 비지도학습(6시간)
+#### 1. 비지도학습 (6시간)
 - Dimensionality Reduction
 - Anomaly Detection (PCA, Autoencoder)
 - 기술 Tools : Python, Tensorflow, Keras
 
-#### 2. Generative Deep Learning(6시간)
+#### 2. Generative Deep Learning (6시간)
 - VAE(Variational Autoencoder)
 - GAN(Generative Adversarial Network)
   
-#### 3. 딥러닝과 시계열분석(12시간)
+#### 3. 딥러닝과 시계열분석 (12시간)
 - Tensor Operation, Data Windowing
 - 기술 Tools : Python, Tensorflow, Keras
 
-#### 4. Finance Investment 전략과 Simulation(12시간)
+#### 4. Finance Investment 전략과 Simulation (12시간)
 - 볼린저밴드 (Bollinger Bands)를 기반으로 Long & Short 전략만들기
 
-#### 5. AI Tutor 만들기(9시간)
+#### 5. AI Tutor 만들기 (9시간)
 - RAG(Retrieval-Augmented Generation)기반의 google gemini API를 활용하여 AI Tutor 개발
 - [Gemini API: Getting started with Gemini models](https://colab.research.google.com/github/google-gemini/cookbook/blob/main/quickstarts/Get_started.ipynb)
 
