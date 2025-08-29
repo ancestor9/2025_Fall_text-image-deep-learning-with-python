@@ -21,6 +21,7 @@
 - [Gemini API: Getting started with Gemini models](https://colab.research.google.com/github/google-gemini/cookbook/blob/main/quickstarts/Get_started.ipynb)
 
 ##### 교재 및 playgrounds :
+- [Unsupervised Learing](https://github.com/aapatel09/handson-unsupervised-learning)
 - [Deep Learning with python-PDF](https://sourestdeeds.github.io/pdf/Deep%20Learning%20with%20Python.pdf) --> Refer only to chapter02, 3, 4, 5, 13
 - [Deep Learning with python-github](https://github.com/fchollet/deep-learning-with-python-notebooks)
 - [Time Series Forecasting in Python-github](https://github.com/marcopeix/TimeSeriesForecastingInPython)
