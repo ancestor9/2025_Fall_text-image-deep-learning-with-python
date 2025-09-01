@@ -1,6 +1,11 @@
 ### 학습 내용
 
 #### 1. 딥러닝 이해 및 tensoflow 실습 (6시간)
+- 단순회귀와 선형대수
+- 다중회귀와 선형대수
+- 퍼셉트론과 선형대수 (활성화 함수 --> 비선형)
+- 딥러닝과 선형대수
+- [Keras/Tenorflow Tutorial](https://www.tensorflow.org/tutorials/keras/classification?hl=ko)
 
 #### 2. 딥러닝과 시계열분석 (8시간)
 - Tensor Operation, Data Windowing
