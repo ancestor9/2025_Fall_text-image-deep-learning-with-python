@@ -11,7 +11,7 @@
 - 기술 Tools : Python, Tensorflow, Keras
 
 #### 3. Finance Investment 전략과 Simulation (15시간)
-- 볼린저밴드 (Bollinger Bands)를 기반으로 Long & Short 전략만들기
+- 볼린저밴드 (Bollinger Bands)를 기반으로 Long & Short 전략 수립 및 가상 이익 창출
 
 #### 4. AI Tutor 만들기 (15시간)
 - RAG(Retrieval-Augmented Generation)기반의 google gemini API를 활용하여 AI Tutor 개발
