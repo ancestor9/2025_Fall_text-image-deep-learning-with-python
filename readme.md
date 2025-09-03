@@ -7,7 +7,7 @@
 - 단순회귀, 다중회귀와 선형대수
 - 퍼셉트론과 선형대수 (활성화 함수 --> 비선형)
 - 딥러닝과 선형대수
-- [Keras/Tenorflow Tutorial](https://www.tensorflow.org/tutorials/keras/classification?hl=ko)
+- [Keras/Tensorflow Tutorial](https://www.tensorflow.org/tutorials/keras/classification?hl=ko)
 
 #### 2. 딥러닝과 시계열분석 (6시간)
 - Tensor Operation, Data Windowing
