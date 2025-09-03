@@ -4,9 +4,7 @@
 - [선형대수, Chapter 4장](http://103.203.175.90:81/fdScript/RootOfEBooks/E%20Book%20collection%20-%202024%20-%20F/CSE%20%20IT%20AIDS%20ML/Essential_Math_for_Data_Science_Take_Control_of_Your_Data_with_Fundamental.pdf)
 - [선형대수, Numpy Linear Algebra](https://numpy.org/numpy-tutorials/content/tutorial-svd.html)
 - [Master AI Concepts with Interactive Learning!](https://www.101ai.net/overview/basics)
-- 단순회귀, 다중회귀와 선형대수
-- 퍼셉트론과 선형대수 (활성화 함수 --> 비선형)
-- 딥러닝과 선형대수
+- 단순회귀, 다중회귀, 퍼셉트론, 딥러닝과 선형대수 (활성화 함수 --> 비선형)
 - [Keras/Tensorflow Tutorial](https://www.tensorflow.org/tutorials/keras/classification?hl=ko)
 
 #### 2. 딥러닝과 시계열분석 (6시간)
