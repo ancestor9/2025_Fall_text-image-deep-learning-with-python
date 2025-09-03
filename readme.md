@@ -1,6 +1,6 @@
 ### 학습 내용
 
-#### 1. 딥러닝 이해 및 tensoflow 실습 (6시간)
+#### 1. 딥러닝 이해 및 tensoflow 실습 (10시간)
 - [선형대수, Chapter 4장](http://103.203.175.90:81/fdScript/RootOfEBooks/E%20Book%20collection%20-%202024%20-%20F/CSE%20%20IT%20AIDS%20ML/Essential_Math_for_Data_Science_Take_Control_of_Your_Data_with_Fundamental.pdf)
 - [선형대수, Numpy Linear Algebra](https://numpy.org/numpy-tutorials/content/tutorial-svd.html)
 - [Master AI Concepts with Interactive Learning!](https://www.101ai.net/overview/basics)
@@ -9,14 +9,14 @@
 - 딥러닝과 선형대수
 - [Keras/Tenorflow Tutorial](https://www.tensorflow.org/tutorials/keras/classification?hl=ko)
 
-#### 2. 딥러닝과 시계열분석 (8시간)
+#### 2. 딥러닝과 시계열분석 (6시간)
 - Tensor Operation, Data Windowing
 - 기술 Tools : Python, Tensorflow, Keras
 
 #### 3. Finance Investment 전략과 Simulation (15시간)
 - 볼린저밴드 (Bollinger Bands)를 기반으로 Long & Short 전략 수립 및 가상 이익 창출
 
-#### 4. AI Tutor 만들기 (15시간)
+#### 4. AI Tutor 만들기 (14시간)
 - RAG(Retrieval-Augmented Generation)기반의 google gemini API를 활용하여 AI Tutor 개발
 - [Gemini API: Getting started with Gemini models](https://colab.research.google.com/github/google-gemini/cookbook/blob/main/quickstarts/Get_started.ipynb)
 
