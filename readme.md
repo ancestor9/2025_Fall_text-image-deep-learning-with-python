@@ -1,6 +1,6 @@
 ## 학습 내용
 
-#### 1. 선형대수, AI 및 tensoflow 실습 (10시간)
+#### 1. 선형대수와 회귀모형 그리고 딥러닝 (10시간)
 - [선형대수, Chapter 4장](http://103.203.175.90:81/fdScript/RootOfEBooks/E%20Book%20collection%20-%202024%20-%20F/CSE%20%20IT%20AIDS%20ML/Essential_Math_for_Data_Science_Take_Control_of_Your_Data_with_Fundamental.pdf)
 - [선형대수, Numpy Linear Algebra](https://numpy.org/numpy-tutorials/content/tutorial-svd.html)
 - [Master AI Concepts with Interactive Learning!](https://www.101ai.net/overview/basics)
