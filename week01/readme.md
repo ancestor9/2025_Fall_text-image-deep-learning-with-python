@@ -27,4 +27,4 @@
 - Stochastic Gradient Descent
 - 머신러닝의 최적화(Optimization)
 
-### 제출과제 1. 선형대수
+### 제출과제 1. 선형대수 실습지(학번과 성명 --> 학과 사무실로 제출)
