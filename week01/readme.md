@@ -19,6 +19,7 @@
 ### 4. 회귀모델(regression)과 선형대수 (60분)
 - 단순회귀모형, 다중회귀모형을 행렬식으로 표현
 - Perceptron, deep learning과 회귀/로지스틱회귀 연관성
+- 선형모형(Linear Model)과 비선형 모형(Non Linear Model)
 - 딥러닝모형을 행렬식으로 표현
 - 활성화함수(activation function)
 - Stochastic Gradient Descent
