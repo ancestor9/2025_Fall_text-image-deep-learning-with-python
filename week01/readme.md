@@ -1,5 +1,5 @@
 ## 첫 주에 배울 내용
-- LLM을 활용하여 기초이론 학습하기
+- LLM(chatGPT, gemini, 등)을 활용하여 기초이론 학습하기
   
 ### 1. 기초 수학 (30분)
 - Variables, Functions, Exponents, Logarithms
