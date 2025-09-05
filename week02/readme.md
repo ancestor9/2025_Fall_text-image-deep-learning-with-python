@@ -5,7 +5,7 @@
 
 ### 2. 이미지 분류(Deep learning for image)
 - https://cs231n.stanford.edu/
-<img width="827" height="307" alt="image" src="https://github.com/user-attachments/assets/cb96063d-bb19-4f30-9c4b-11fc07bc5233" />
+<img width="827" height="407" alt="image" src="https://github.com/user-attachments/assets/cb96063d-bb19-4f30-9c4b-11fc07bc5233" />
 
 - [But what is a convolution?](https://www.youtube.com/watch?v=KuXjwB4LzSA)
 - [Convolutionary Neural Network](https://hackernoon.com/dl05-convolutional-neural-networks-1d3bb7fff586)
