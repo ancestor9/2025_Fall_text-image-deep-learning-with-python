@@ -1,12 +1,14 @@
 ## 두번째 주에 배울 내용
 
 ### 1. 머신러닝 이해
+- 선형대수와 이미지 행렬 변환의 종류 Image_representation.ipynb
+- 최적화와 Optimization.ipynb
 - [Master AI Concepts with Interactive Learning!](https://www.101ai.net/overview/basics)
 - [Basic Machine Learning](https://www.101ai.net/overview/basics)
 
 
 ### 2. 이미지 분류(Deep learning for image)
-- Image_representation.ipynb
+- convet를 위한 Image_representation.ipynb
 - https://cs231n.stanford.edu/
 <img width="827" height="407" alt="image" src="https://github.com/user-attachments/assets/cb96063d-bb19-4f30-9c4b-11fc07bc5233" />
 
