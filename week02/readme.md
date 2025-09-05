@@ -4,7 +4,9 @@
 - [Master AI Concepts with Interactive Learning!](https://www.101ai.net/overview/basics)
 - [Basic Machine Learning](https://www.101ai.net/overview/basics)
 
+
 ### 2. 이미지 분류(Deep learning for image)
+- Image_representation.ipynb
 - https://cs231n.stanford.edu/
 <img width="827" height="407" alt="image" src="https://github.com/user-attachments/assets/cb96063d-bb19-4f30-9c4b-11fc07bc5233" />
 
