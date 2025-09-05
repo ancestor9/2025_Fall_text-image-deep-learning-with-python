@@ -2,6 +2,7 @@
 
 ### 1. 머신러닝 이해
 - [Master AI Concepts with Interactive Learning!](https://www.101ai.net/overview/basics)
+- [Basic Machine Learning](https://www.101ai.net/overview/basics)
 
 ### 2. 이미지 분류(Deep learning for image)
 - https://cs231n.stanford.edu/
