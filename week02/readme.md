@@ -2,7 +2,7 @@
 
 ### 1. 머신러닝 이해
 - 선형대수와 이미지 행렬 변환의 종류 Image_representation.ipynb
-- [](https://www.mlsysbook.ai/contents/core/dnn_architectures/dnn_architectures_files/mediabag/5aab87381f560ddc7f720233b9e89a654d299fa1.svg)
+- ![](https://www.mlsysbook.ai/contents/core/dnn_architectures/dnn_architectures_files/mediabag/5aab87381f560ddc7f720233b9e89a654d299fa1.svg)
 - 최적화와 Optimization.ipynb
 - [Master AI Concepts with Interactive Learning!](https://www.101ai.net/overview/basics)
 
