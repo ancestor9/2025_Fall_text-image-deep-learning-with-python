@@ -4,7 +4,6 @@
 - 선형대수와 이미지 행렬 변환의 종류 Image_representation.ipynb
 - 최적화와 Optimization.ipynb
 - [Master AI Concepts with Interactive Learning!](https://www.101ai.net/overview/basics)
-- [Basic Machine Learning](https://www.101ai.net/overview/basics)
 
 
 ### 2. 이미지 분류(Deep learning for image)
